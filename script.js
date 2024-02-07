@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded",
     const titleElement = document.querySelector(".title");
     const catImg = document.querySelector(".cat-img");
 
-    titleElement.innerHTML = `Hey ${crushName}, Will you be your Valentine?`;
+    titleElement.innerHTML = `Hey ${crushName}, Will you be my Valentine?`;
     hellomessage.innerHTML = `${senderName}, Has sent a message for you`;
     hmessage.innerHTML = `${message}`;
 
